@@ -1,0 +1,16 @@
+h1
+{
+	color: blue; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("https://olympics.nbcsports.com/wp-content/uploads/sites/10/2022/02/GettyImages-1368576766.jpg");
+	
+    background-position: center;
+	background-size: cover;
+
+}
+
+#myCanvas{
+border-style: ridge;
+} 
